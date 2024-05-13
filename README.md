@@ -1,11 +1,11 @@
-# 💫About Me :
+# 💫Full Stack Software Developer :
 Passionate full-stack engineer with 9+ years of hands-on experience in developing web, mobile apps using a wide range of frontend and backend skills like MERN stack, Wordpress, Webflow, React Native, Flutter, and Java. And as a blockchain developer I am Mastered JavaScript, Golang, Solidity, and Python. Extensive knowledge in smart contracts, web3, consensus algorithms, and data structures.
 
-🔭 I am currently working on freelance sites.
-👯 I am looking to collaborate on web and mobile development projects
-🤝 I am looking for help with AI based frameworks and technologies
+🔭 Web Development stacks (LAMP, MERN, MEVN, MEAN)
+👯 CMS (Wordpress, Joomla, Webflow, Shopify, Bubble.io)
+🤝 Backend (Node.js, Ruby on Rails, Django, Laravel, MongoDB, Mysql, PostgreSql)
 🌱 I am currently learning AI technologies.
-💬 Ask me about any Blockchain issues.(Senior 😉)
+💬 Android and iOS App development (React Native, Flutter, Android Java, Swift)
 
 Best Regards.
 
